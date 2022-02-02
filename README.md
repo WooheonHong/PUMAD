@@ -54,9 +54,8 @@ Note : There is
 
 ## Evaluation 
 
-Save anomaly score DataFrame as `df_score`. This is used for calculating precision, recall, F1-score
+precision, recall, F1-score
 
-Save AUC DataFrame as `df_auc`
 
 ### Saliency map
 ```sh
