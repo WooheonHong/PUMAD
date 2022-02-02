@@ -54,7 +54,7 @@ Note : There is
 
 ## Evaluation 
 
-precision, recall, F1-score
+Evaluation metrics are precision, recall and F1-score.
 
 
 ### Saliency map
