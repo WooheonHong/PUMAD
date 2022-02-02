@@ -70,9 +70,13 @@ The parameters of the `heatmap.py` are:\
 # Code Structure 
 
 ```
+├── heatmap.py
 ├── model.py
+├── puamd_structure.PNG
 ├── README.md
 ├── requirements.txt
+├── save
+├── test.py
 ├── train.py
 └── utils
     ├── utils_dataset.py
