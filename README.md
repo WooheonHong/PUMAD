@@ -2,7 +2,7 @@
 PUMAD 
 ==============
 
-**Author:** *Wooheon Hong[!https://www.linkedin.com/feed/]*
+**Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*
 
 **Date:** 2021.05.10 ~ 2022. 04. 29
 
