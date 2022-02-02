@@ -1,12 +1,12 @@
 
-PUMAD 
+PU Learning for Multivariate Timeseries Anomaly Detection
 ==============
 
 **Author:** *[Wooheon Hong](https://www.linkedin.com/in/wooheon-hong-b33621200/)*, *[Minsoo Kim](https://github.com/km19809)* with Samsung Electronics
 
 **Date:** 2021.05.10 ~ 2022. 04. 29
 
-PU Learning for Multivariate Timeseries Anomaly Detection 
+ This is the pytorch implementation of the project 
 
 ![pumad](puamd_structure.PNG)
 
