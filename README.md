@@ -1,8 +1,12 @@
-# PUMAD 
 
-PU Learning for Anomaly Detection 
+PUMAD 
+==============
 
-Postech DI Lab with Samsung Network Division 2021.05.10 ~ 2022. 04. 29
+**Author:** *Wooheon Hong*
+
+**Date:** 2021.05.10 ~ 2022. 04. 29
+
+PU Learning for Multivariate Timeseries Anomaly Detection 
 
 ![pumad](puamd_structure.PNG)
 
