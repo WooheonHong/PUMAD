@@ -12,10 +12,10 @@ PU Learning for Multivariate Timeseries Anomaly Detection
 
 PUMAD: PU Metric learning for anomaly detection(Information Sciences, 2020)
 
-*Distance Hashing-based Filtering* 
+**Distance Hashing-based Filtering**
 - Find reliable normal and potential anomaly in unlabeled data
 
-*Deep Metric Learning*
+**Deep Metric Learning**
 - push negative samples and pull positive samples for each anchor(normal, anomaly)
 
 
