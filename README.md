@@ -6,8 +6,7 @@ PU Learning for Multivariate Timeseries Anomaly Detection
 
 **Date:** 2021.05.10 ~ 2022. 04. 29
 
- This is the pytorch implementation of the [PUMAD] (https://www.sciencedirect.com/science/article/pii/S0020025520302012)
-but, the detailed code cannot be disclosed.
+ This is the pytorch implementation of the [PUMAD](https://www.sciencedirect.com/science/article/pii/S0020025520302012) but, the detailed code cannot be disclosed.
 
 ![pumad](puamd_structure.PNG)
 
